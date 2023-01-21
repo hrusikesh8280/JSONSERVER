@@ -1,6 +1,487 @@
 {
     "todo":[],
     "signup":[],
-    "products":[]
+    "products":[
+        {
+            "id": 1,
+            "image": "https://i.ibb.co/8KJy15T/a17dbfdc5469.jpg",
+            "description": "realme C35 ",
+            "stars": 4.4,
+            "price": 1199,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 2,
+            "image": "https://i.ibb.co/VBCvZyk/25cb2521889c.jpg",
+            "description": "realme Narzo 50A",
+            "stars": 4.4,
+            "price": 11499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 3,
+            "image": "https://i.ibb.co/LgCRnGH/a81962fb9052.jpg",
+            "description": "realme Narzo 50A ",
+            "stars": 4.0,
+            "price": 21399,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 4,
+            "image": "https://i.ibb.co/zR1Mmyp/ef4fb87688aa.jpg",
+            "description": "POCO C31 ",
+            "stars": 4.4,
+            "price": 32499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 5,
+            "image": "https://i.ibb.co/KWq6d2x/c3a36c14548b.jpg",
+            "description": "POCO M3 ",
+            "stars": 4.4,
+            "price": 41499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 6,
+            "image": "https://i.ibb.co/HpkT5G0/5f5c2646fccf.jpg",
+            "description": " Shirt Fabric Printed",
+            "stars": 4.1,
+            "price": 499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 7,
+            "image": "https://i.ibb.co/hKmb6hk/8dd90f203cd5.jpg",
+            "description": " Polycotton Shirt ",
+            "stars": 4.4,
+            "price": 199,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 8,
+            "image": "https://i.ibb.co/BrLP7BD/9c14dafd9040.jpg",
+            "description": " Shirt ",
+            "stars": 4.8,
+            "price": 299,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 9,
+            "image": "https://i.ibb.co/MGT4YDb/7e9ad9bf0da7.jpg",
+            "description": " Sleeves  Women ",
+            "stars": 4.5,
+            "price": 1399,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 10,
+            "image": "https://i.ibb.co/MGT4YDb/7e9ad9bf0da7.jpg",
+            "description": "Casual Sleeves  Women ",
+            "stars": 4.0,
+            "price": 999,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 11,
+            "image": "https://i.ibb.co/j4PVHq8/e2e32f7c24ad.jpg",
+            "description": " Optical  Gaming Mouse",
+            "stars": 3.9,
+            "price": 1199,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 12,
+            "description": "Lenovo Laptop",
+            "image": "https://i.ibb.co/q79nS2Y/f0fa91bcb004.jpg",
+            "stars": 4.4,
+            "price": 11499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 13,
+            "description": "HP 11th Gen  Laptop",
+            "image": "https://i.ibb.co/ZdXQ6wk/4fc7dfdf35c6.jpg",
+            "stars": 4.7,
+            "price": 44959,
+            "warranty": "1 Year Warranty for laptop and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 14,
+            "description": "HP i3 Laptop",
+            "image": "https://i.ibb.co/51gXxnD/7e74c3a8f338.jpg",
+            "stars": 4.1,
+            "price": 33499,
+            "warranty": "1 Year Warranty for laptop and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 15,
+            "image": "https://i.ibb.co/8KJy15T/a17dbfdc5469.jpg",
+            "description": "realme C35 ",
+            "stars": 4.8,
+            "price": 13499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 16,
+            "image": "https://i.ibb.co/LgCRnGH/a81962fb9052.jpg",
+            "description": "realme Narzo 50A ",
+            "stars": 4.7,
+            "price": 21499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 17,
+            "image": "https://i.ibb.co/8KJy15T/a17dbfdc5469.jpg",
+            "description": "realme Narzo ",
+            "stars": 4.4,
+            "price": 9499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 18,
+            "image": "https://i.ibb.co/M8WM4Q6/cdbeaa9cc54a.jpg",
+            "description": "realme 9 ",
+            "stars": 4.8,
+            "price": 19499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 19,
+            "image": "https://i.ibb.co/M2hVdGR/2a69bd397549.jpg",
+            "description": "MOTOROLA G60 ",
+            "stars": 4.5,
+            "price": 12499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 20,
+            "image": "https://i.ibb.co/kK8Mdwy/e006df024052.jpg",
+            "description": "Casa Double Printed Bedsheet",
+            "stars": 4.4,
+            "price": 499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 21,
+            "image": "https://i.ibb.co/gRMpH3D/67428e28e4f9.jpg",
+            "description": " SmartBuy Double  Bedsheet",
+            "stars": 4.0,
+            "price": 1499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 22,
+            "image": "https://i.ibb.co/kK8Mdwy/e006df024052.jpg",
+            "description": " Confort Bedsheet",
+            "stars": 3.9,
+            "price": 1099,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 23,
+            "image": "https://i.ibb.co/K06ZMF8/39f2f9d7bacd.jpg",
+            "description": "eleganzze  Bedsheet",
+            "stars": 4.1,
+            "price": 999,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 24,
+            "image": "https://i.ibb.co/McY3VJZ/ff78085669aa.jpg",
+            "description": "Jaipuri Prints ",
+            "stars": 4.3,
+            "price": 1490,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 25,
+            "image": "https://i.ibb.co/kK8Mdwy/e006df024052.jpg",
+            "description": "Casa Confort 144 TC Microfiber Double Printed Bedsheet",
+            "stars": 4.4,
+            "price": 5499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 26,
+            "image": "https://i.ibb.co/VLrvq2y/ab781eae5e9a.jpg",
+            "color": "Pack of 1, Camal",
+            "description": " Double Printed Bedsheet",
+            "stars": 4.2,
+            "price": 1104,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 27,
+            "image": "https://i.ibb.co/4VYnrsw/1e3995986257.jpg",
+            "color": "Pack of 1, Pink",
+            "description": " Double Cartoon Bedsheet",
+            "stars": 4.4,
+            "price": 1399,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 28,
+            "description": " Sleeping Pillow ",
+            "image": "https://i.ibb.co/TgTNdqz/5da61630f0e0.jpg",
+            "stars": 4.4,
+            "price": 1349,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 29,
+            "description": "LA VERNE Pillow ",
+            "image": "https://i.ibb.co/ZKzQ9M9/26a74736478f.jpg",
+            "stars": 4.4,
+            "price": 11499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 30,
+            "image": "https://i.postimg.cc/gJSxxxX6/shamppo.webp",
+            "description": "TRESemme Shampoo ",
+            "stars": 4.4,
+            "price": 499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 31,
+            "image": "https://i.ibb.co/FwhPZx0/2a303a406383.jpg",
+            "description": "Kwality Original Corn Flakes Pouch  (800 g)",
+            "stars": 4.4,
+            "price": 119,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 32,
+            "image": "https://i.postimg.cc/nV3K612p/oil.webp",
+            "description": "Fortune oil brand.",
+            "stars": 4.8,
+            "price": 299,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 33,
+            "image": "https://i.postimg.cc/rwZwTKbd/chill-powder.webp",
+            "description": "Natural chilli Powder",
+            "stars": 4.4,
+            "price": 199,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 34,
+            "image": "https://i.postimg.cc/XYLQY0cB/fair-and-some.webp",
+            "description": " Fairness Cream",
+            "stars": 4.4,
+            "price": 299,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 35,
+            "image": "https://i.ibb.co/FwhPZx0/2a303a406383.jpg",
+            "description": " Corn Flakes",
+            "stars": 4.8,
+            "price": 199,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 36,
+            "image": "https://i.ibb.co/23StKfC/5e3aa027808d.jpg",
+            "description": "A-line Gown",
+            "stars": 4.4,
+            "price": 1179,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 37,
+            "image": "https://i.ibb.co/DgWgmfC/385b3d1bb53b.jpg",
+            "description": " Anarkali Gown",
+            "stars": 4.7,
+            "price": 2119,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 38,
+            "image": "https://i.ibb.co/qs2KLdV/50b26124bd8f.jpg",
+            "description": "Stitched Fine Gown",
+            "stars": 4.4,
+            "price": 1099,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 39,
+            "description": " Steam and Ceramic Heater ",
+            "image": "https://i.ibb.co/KLvR4KZ/573c2d3062fa.jpg",
+            "stars": 4.5,
+            "price": 3145,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 40,
+            "description": "Washing Machine",
+            "image": "https://i.ibb.co/fGfmn2q/dd836dd9a6e7.jpg",
+            "stars": 3.4,
+            "price": 6134,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 41,
+            "description": " Automatic Top Load",
+            "image": "https://i.ibb.co/zF0g2sL/0bf69770f45f.jpg",
+            "stars": 4.5,
+            "price": 11499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 42,
+            "description": " Heater G",
+            "image": "https://i.ibb.co/M61RVPY/51f818ac3a29.jpg",
+            "stars": 4.4,
+            "price": 10499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 43,
+            "description": "Godrej Washing Machine",
+            "image": "https://i.ibb.co/MC0kP0B/668dbade59b6.jpg",
+            "stars": 4.4,
+            "price": 5499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 44,
+            "description": "OnePlus LED Smart TV",
+            "image": "https://i.ibb.co/bJVjpDj/6408229f46a4.jpg",
+            "stars": 4.4,
+            "price": 25499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 45,
+            "description": "Vu LED TV",
+            "image": "https://i.ibb.co/HHm7tr8/68459c713c10.jpg",
+            "stars": 4.3,
+            "price": 19494,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 46,
+            "description": "Mi TV with Dolby Atmos ",
+            "image": "https://i.ibb.co/Mkdhn3r/eb44c5403d70.jpg",
+            "stars": 4.6,
+            "price": 30499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 47,
+            "image": "https://i.ibb.co/WWHGS0n/04055d5a6a69.jpg",
+            "description": "I-Plus I2",
+            "stars": 4.8,
+            "price": 8999,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 48,
+            "description": "Lenovod Light Laptop",
+            "image": "https://i.ibb.co/q79nS2Y/f0fa91bcb004.jpg",
+            "stars": 4.9,
+            "price": 51499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 49,
+            "description": "acer Laptop",
+            "image": "https://i.ibb.co/gF2b387/9a37c06f694d.jpg",
+            "stars": 4.7,
+            "price": 43499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 50,
+            "description": "HP Ryzen Laptop",
+            "image": "https://i.ibb.co/Nt6jqkH/294076d18284.jpg",
+            "stars": 4.7,
+            "price": 76499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 51,
+            "image": "https://i.ibb.co/7WHtRvt/14826fd806b4.jpg",
+            "description": "HIGH SPEED TABLE FAN ",
+            "stars": 3.4,
+            "price": 1499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 52,
+            "image": "https://i.ibb.co/f0dH9hW/9f82ccc02cb3.jpg",
+            "description": "Haier Refrigerator",
+            "stars": 4.9,
+            "price": 33499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            },
+        {
+            "id": 53,
+            "image": "https://i.ibb.co/JnksPjR/f6f3152cad2e.jpg",
+            "description": "SAMSUNG  Refrigerator",
+            "stars": 4.8,
+            "price": 36499,
+            "warranty": "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+
+            }
+
+    ]
 
 }
